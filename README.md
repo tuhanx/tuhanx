@@ -7,10 +7,6 @@ Currently, I am focused on building my technical portfolio and documenting my le
 
 ---
 
-### 🚀 Currently Working On
-
-- **Uber Data Analysis Project:** I am conducting my first end-to-end data analysis project using **SQL** and **DataGrip** on a Kaggle dataset. This project focuses on data manipulation and extracting meaningful insights to build a strong foundation in database management.
-
 ### 🏆 Certifications
  - **SAP Analytics Cloud (SAC):** I have successfully obtained my certification, taking a significant step towards specialization in enterprise analytics and data solutions.
 
