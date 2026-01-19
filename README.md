@@ -21,13 +21,16 @@ Currently, I am focused on building my technical portfolio and documenting my le
 
 ### 🛠️ Skills & Tools
 
+**👨‍💻 Data & Analytics**
+
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Domain Knowledge**
+**🌐 Domain Knowledge**
+
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![Logistics](https://img.shields.io/badge/Logistics-0052CC?style=for-the-badge&logo=transportr&logoColor=white)
 
