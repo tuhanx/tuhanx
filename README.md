@@ -13,9 +13,11 @@ Currently, I am focused on building my technical portfolio and documenting my le
 
 ### 🏆 Certifications
  - **SAP Analytics Cloud (SAC):** I have successfully obtained my certification, taking a significant step towards specialization in enterprise analytics and data solutions.
-### 🌱 Currently Learning
 
-- **Python:** Learning data analysis libraries (Pandas, NumPy) for advanced data manipulation. - **Tableau:** Creating interactive dashboards and visual stories. - **Advanced SQL:** Focusing on complex query structures and efficient database management techniques.
+### 🌱 Currently Learning
+- **Python:** Learning data analysis libraries (Pandas, NumPy) for advanced data manipulation.
+- **Tableau:** Creating interactive dashboards and visual stories.
+- **Advanced SQL:** Focusing on complex query structures and efficient database management techniques.
 
 ### 🛠️ Skills & Tools
 
@@ -28,17 +30,6 @@ Currently, I am focused on building my technical portfolio and documenting my le
 **Domain Knowledge**
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![Logistics](https://img.shields.io/badge/Logistics-0052CC?style=for-the-badge&logo=transportr&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical" alt="github stats" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical" alt="top langs" width="45%" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
